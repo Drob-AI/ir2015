@@ -1,3 +1,4 @@
 target/*
 .classpath
 .project
+src/main/resources/org/drob/ir2015/keys.properties
